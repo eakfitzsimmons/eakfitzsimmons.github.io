@@ -1,2 +1,2 @@
 # eakfitzsimmons.github.io
-user github page repository
+This is the user GitHub page for Ellen Fitzsimmons
