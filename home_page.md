@@ -1,5 +1,5 @@
 layout: page
 title: "Home Page"
-permalink: https://eakfitzsimmons.github.io
+permalink: /home/
 
 Hello! Welcome to my page.
