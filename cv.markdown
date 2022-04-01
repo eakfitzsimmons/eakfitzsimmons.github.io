@@ -184,8 +184,6 @@ R-Ladies Mid-MO Founding Member Fall 2019 -- Summer 2021
 
 - Gave tutorial-style presentations on using R and Git, including topics like R and Git repository installation and set up, using plotting and functions in R, and making push and pull requests in Git for collaborative work
 
-\newpage
-
 Student Representative Wellness Resource Committee Fall 2020 -- Spring 2021
 
 - Assisted in creating survey measuring wellness of graduate students and postdoctoral scholars
