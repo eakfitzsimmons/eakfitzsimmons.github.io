@@ -40,12 +40,12 @@ header-includes:
 
 # Education
 
-**Doctor of Philosophy, Quantitative Psychology** Expected May 2023
+**Doctor of Philosophy, Quantitative Psychology** Expected May 2024
 
 *University of Missouri, Columbia, MO*
 
 
-**Master of Arts, Statistics** Expected May 2023
+**Master of Arts, Statistics** Expected May 2024
 
 *University of Missouri, Columbia, MO*
 
