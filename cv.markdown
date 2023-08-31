@@ -40,52 +40,45 @@ header-includes:
 
 # Education
 
-**Doctor of Philosophy, Quantitative Psychology** \hfill Expected May 2024
+**Doctor of Philosophy, Quantitative Psychology** Expected May 2024
 
 *University of Missouri, Columbia, MO*
 
-<!-- 3.796/4.00 current GPA -->
 
-
-**Master of Arts, Statistics** \hfill Expected May 2024
+**Master of Arts, Statistics** Expected May 2024
 
 *University of Missouri, Columbia, MO*
 
-<!-- 3.796/4.00 GPA current GPA -->
 
-
-**Master of Arts, Quantitative Psychology** \hfill May 2021
+**Master of Arts, Quantitative Psychology** May 2021
 
 *University of Missouri, Columbia, MO*
 
-<!-- 3.80/4.00 GPA -->
 
-
-**Bachelor of Arts, Psychology** \hfill May 2018
+**Bachelor of Arts, Psychology** May 2018
 
 *University of Oklahoma, Norman, OK*
 
-<!-- 3.82/4.00 GPA,  -->
 summa cum laude
 
 
-**Bachelor of Arts, Mathematics** \hfill May 2018
+**Bachelor of Arts, Mathematics** May 2018
 
 *University of Oklahoma, Norman, OK*
 
-<!-- 3.82/4.00 GPA,  -->
 minor in Spanish
 
 
 # Research
 
-**Statistical Consulting** \hfill January 2022 -- Present
+**Statistical Consulting** January 2022 -- Present
 
-- Write technical reports and create corresponding graphics
+- Write technical reports and create corresponding graphics for alignment studies of K-12 assessments
 
 - Run statistical analyses
 
-**Dissertation Research**	\hfill Fall 2021 -- Present
+
+**Dissertation Research** Fall 2021 -- Present
 
 *University of Missouri, Columbia, MO*
 
@@ -95,7 +88,7 @@ minor in Spanish
 
 - Generalize ppp-value calculation code and make available through a public Git repository
 
-**Graduate Research Assistant** \hfill	Fall 2019 -- Summer 2021
+**Graduate Research Assistant**	Fall 2019 -- Summer 2021
 
 *University of Missouri, Columbia, MO*
 
@@ -108,7 +101,7 @@ minor in Spanish
 - Assisted in designing Graphical User Interface 
 
 
-**Master’s Thesis Research**	\hfill Summer 2019 -- Spring 2021
+**Master’s Thesis Research**	Summer 2019 -- Spring 2021
 
 *University of Missouri, Columbia, MO*
 
@@ -118,7 +111,7 @@ minor in Spanish
 
 - We found a trend of the novel method of calculating the fit statistic indicating better fit than the standard method
 
-**Bayesian Structural Equation Modeling in Stan**	\hfill Summer 2019
+**Bayesian Structural Equation Modeling in Stan** Summer 2019
 
 *University of Missouri, Columbia, MO*
 
@@ -128,7 +121,7 @@ minor in Spanish
 
 - Compared effective sample size per second for the models built in JAGS, classic Stan, and Stan and created graphical depictions of results
 
-**First-Year Project**	\hfill Fall 2018 -- Summer 2019
+**First-Year Project** Fall 2018 -- Summer 2019
 
 *University of Missouri, Columbia, MO*
 
@@ -139,7 +132,7 @@ minor in Spanish
 
 # Teaching Experience
 
-**TA PSYCH 3020 (Research Methods in Psychology II)**	\hfill Spring 2019
+**TA PSYCH 3020 (Research Methods in Psychology II)** Spring 2019
 
 *University of Missouri, Columbia, MO*
 
@@ -150,7 +143,7 @@ minor in Spanish
 - Graded homework assignments and tests 
 
 
-**TA for PSYCH 3830 (Health Psychology)** \hfill	Fall 2018
+**TA for PSYCH 3830 (Health Psychology)**	Fall 2018
 
 *University of Missouri, Columbia, MO*
 
@@ -178,23 +171,23 @@ Fitzsimmons, E. (2018, Mar. 28). *Using Statistical Regression Analysis to Impro
 
 
 # Honors and Awards
-**StanCon 2023 Scholarship Recipient** \hfill Summer 2023
+**StanCon 2023 Scholarship Recipient** Summer 2023
 
-**Summer 2019 Psychological Sciences Fellowship**	\hfill Summer 2019
-
-*University of Missouri*
-
-**Human Behavior and Technology Hack-a-Thon, 3rd place**	\hfill Fall 2018
+**Summer 2019 Psychological Sciences Fellowship** Summer 2019
 
 *University of Missouri*
 
-**Award for Distinguished Undergraduate Research**	\hfill Spring 2018
+**Human Behavior and Technology Hack-a-Thon, 3rd place** Fall 2018
+
+*University of Missouri*
+
+**Award for Distinguished Undergraduate Research** Spring 2018
 
 *University of Oklahoma’s Honors College Undergraduate Research Day*
 
 # Leadership Activities
 
-Secretary of Graduate Association of Psychology Students (GASP)	\hfill Fall 2019 -- Summer 2020, Fall 2023 -- Present
+Secretary of Graduate Association of Students in Psychology (GASP) Fall 2019 -- Summer 2020, Fall 2023 -- Present
 
 - Communicated needs and experiences of Psychology graduate students to administration
 
@@ -202,13 +195,14 @@ Secretary of Graduate Association of Psychology Students (GASP)	\hfill Fall 2019
 
 - Assisted in planning and coordinating GASP events
 
-R-Ladies Mid-MO Founding Member	\hfill Fall 2019 -- Summer 2021
+
+R-Ladies Mid-MO Founding Member Fall 2019 -- Summer 2021
 
 - Planned meeting topics and scheduled presenters
 
 - Gave tutorial-style presentations on using R and Git, including topics like R and Git repository installation and set up, using plotting and functions in R, and making push and pull requests in Git for collaborative work
 
-Student Representative Wellness Resource Committee	\hfill Fall 2020 -- Spring 2021
+Student Representative Wellness Resource Committee Fall 2020 -- Spring 2021
 
 - Assisted in creating survey measuring wellness of graduate students and postdoctoral scholars
 
