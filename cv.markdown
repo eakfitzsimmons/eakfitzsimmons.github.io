@@ -40,12 +40,12 @@ header-includes:
 
 # Education
 
-**Doctor of Philosophy, Quantitative Psychology** Expected May 2024
+**Doctor of Philosophy, Quantitative Psychology** Expected Summer 2024
 
 *University of Missouri, Columbia, MO*
 
 
-**Master of Arts, Statistics** Expected May 2024
+**Master of Arts, Statistics** Expected Summer 2024
 
 *University of Missouri, Columbia, MO*
 
@@ -73,18 +73,18 @@ minor in Spanish
 
 **Statistical Consulting** January 2022 -- Present
 
-- Write technical reports and create corresponding graphics for alignment studies of K-12 assessments
+- Write technical reports and generate graphics for alignment studies of K-12 assessments
 
-- Run statistical analyses
+- Write literature review and technical manual related to K-12 assessments and certification tests
 
 
 **Dissertation Research** Fall 2021 -- Present
 
 *University of Missouri, Columbia, MO*
 
-- Explore use of ppp-value as a person fit statistic, e.g., using ppp-values for outlier and influential observation detection
+- Examine different methods of computing posterior predictive p-values (ppp-values) for ordinal data and compare conclusions of each type
 
-- Investigate solutions for double counting problem and optimistic bias that occurs during ppp-value calculation
+- Explore use of ppp-value as a person fit statistic, e.g., using ppp-values for outlier and influential observation detection
 
 - Generalize ppp-value calculation code and make available through a public Git repository
 
@@ -92,24 +92,19 @@ minor in Spanish
 
 *University of Missouri, Columbia, MO*
 
-- Research assistant for developing flexible, user-friendly statistical software for power analysis
+- Assisted in developing flexible, user-friendly statistical software for power analysis
 
-- Coded R base syntax for power calculation for a variety of statistical models and conducted rigorous testing of code to ensure software produces expected results
-
-- Oversaw big picture goals for the project and created training materials for graduate and undergraduate coders
-
-- Assisted in designing Graphical User Interface 
+- Coded R base syntax for power calculation for a variety of statistical models, conducted rigorous testing of software, and assisted in designing GUI 
 
 
 **Master’s Thesis Research**	Summer 2019 -- Spring 2021
 
 *University of Missouri, Columbia, MO*
 
-- Wrote R code for calculation and comparison of Bayesian model fit statistic (the ppp-value) calculated with a standard method and a novel method 
-
-- Built and estimated multiple Bayesian CFA and Latent Growth Models for comparison of the two model fit statistics for each model
+- Wrote R code for calculation and comparison of a standard method and a novel method of computing ppp-values
 
 - We found a trend of the novel method of calculating the fit statistic indicating better fit than the standard method
+
 
 **Bayesian Structural Equation Modeling in Stan** Summer 2019
 
@@ -119,7 +114,7 @@ minor in Spanish
 
 - Wrote R code that modeled data in JAGS, the old Stan approach (classic Stan), and the new Stan approach (Stan)
 
-- Compared effective sample size per second for the models built in JAGS, classic Stan, and Stan and created graphical depictions of results
+- Compared effective sample size per second for JAGS, classic Stan, and Stan models and generated corresponding graphics
 
 **First-Year Project** Fall 2018 -- Summer 2019
 
@@ -212,10 +207,11 @@ Student Representative Wellness Resource Committee Fall 2020 -- Spring 2021
 
 - Fluent in R
 
-- Proficient in Python, SAS, SPSS, and Excel
-
 - Experienced with Git
+
+- Proficient in Python, SAS, SPSS, and Excel
 
 - Data gathering and analysis
 
 - Quantitative and qualitative research
+
